@@ -6,16 +6,6 @@ permalink: /experience/
 
 ## Work Experience
 
-### Huawei Hong Kong Research Center
-**MLSys Engineer, Level 15** | *Sept 2024 - Present* | Shatin, Hong Kong
-
-- Contributing to open-source and internal vLLM framework for large language model serving
-- Focus on system optimizations including memory management, caching, and distributed inference
-- Implemented P/D disaggregation for improved GPU memory utilization in LLM serving
-- Developed multi-level prefix caching across memory hierarchies for common prompt patterns
-- Contributed structured output generation with constrained decoding for JSON/XML formats
-- Optimized KV-cache storage and transmission protocols for distributed inference
-
 ### Microsoft
 **Software Engineer, Level 60** | *Aug 2022 - Sept 2024* | Suzhou, Jiangsu
 
@@ -55,8 +45,8 @@ permalink: /experience/
 - **Mobile:** iOS SDK, Android SDK, React Native
 - **Web:** Django, FastAPI, React
 
-### Tools & Platforms
-- **Development:** Git, Docker, Kubernetes
-- **Cloud:** AWS, Azure, GCP
-- **Databases:** PostgreSQL, Redis, MongoDB
-- **CI/CD:** Jenkins, GitHub Actions
+### Development Expertise
+- **Systems Programming:** Low-level optimization, memory management, performance tuning
+- **Distributed Systems:** Large-scale system design, consensus algorithms, fault tolerance
+- **Machine Learning Systems:** Model serving, inference optimization, GPU utilization
+- **Mobile Development:** Cross-platform apps, native iOS/Android development

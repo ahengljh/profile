@@ -19,14 +19,6 @@ I'm always interested in discussing new opportunities, research collaborations, 
         </div>
     </div>
     
-    <div class="contact-item">
-        <i class="fas fa-phone"></i>
-        <div>
-            <strong>Phone</strong><br>
-            Hong Kong: +852 6044 6233<br>
-            China: +86 187 4433 1105
-        </div>
-    </div>
     
     <div class="contact-item">
         <i class="fab fa-linkedin"></i>
@@ -45,11 +37,6 @@ I'm always interested in discussing new opportunities, research collaborations, 
     </div>
 </div>
 
-### Current Position
-
-**MLSys Engineer**  
-Huawei Hong Kong Research Center  
-Shatin, Hong Kong
 
 ### Open to Opportunities
 

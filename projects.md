@@ -60,19 +60,6 @@ Analyzed and optimized heterogeneous cache file behaviors to improve flash stora
 
 ## Industry Projects
 
-### vLLM Framework Optimization
-**Huawei Research** | 2024 - Present
-
-Contributing to the open-source vLLM project, focusing on optimizations for large language model serving.
-
-**Key Contributions:**
-- Implemented P/D disaggregation for improved GPU memory utilization
-- Developed multi-level prefix caching across memory hierarchies
-- Contributed structured output generation with constrained decoding
-- Optimized KV-cache storage and transmission protocols
-- **Technologies:** Python, CUDA, PyTorch, Distributed Systems
-
----
 
 ### Microsoft Edge Enterprise Mobile
 **Microsoft** | 2022 - 2024

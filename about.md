@@ -6,12 +6,11 @@ permalink: /about/
 
 ## About Me
 
-I am Jinheng Li, an MLSys Engineer currently working at Huawei Hong Kong Research Center, where I focus on optimizing large language model serving through the vLLM framework. My work involves implementing cutting-edge techniques for memory management, distributed inference, and system-level optimizations.
+I am Jinheng Li, an MLSys Engineer focusing on optimizing large language model serving through frameworks like vLLM. My work involves implementing cutting-edge techniques for memory management, distributed inference, and system-level optimizations.
 
 ## Contact Information
 
 - **Email:** [ahengljh@gmail.com](mailto:ahengljh@gmail.com)
-- **Phone:** +852 60446233 | +86 18744331105
 - **LinkedIn:** [linkedin.com/in/leeebucks](https://www.linkedin.com/in/leeebucks)
 - **Location:** Hong Kong
 
