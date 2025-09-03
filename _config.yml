@@ -4,15 +4,14 @@ email: ahengljh@gmail.com
 description: >-
   MLSys Engineer | Software Developer | Researcher
   Specializing in system optimization, distributed systems, and mobile development
-baseurl: "/profile" # the subpath of your site, e.g. /blog
-url: "https://leeebucks.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  leeebucks
 linkedin_username: leeebucks
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
