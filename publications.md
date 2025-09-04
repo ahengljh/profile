@@ -10,8 +10,7 @@ permalink: /publications/
 
 **[1] Binary Folding Compression for Efficient Software Distribution**  
 **J. Li**, Q. Li, H. Wan, C. J. Xue  
-*Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC), 2024*  
-🏆 **ACM Europe Award**
+*Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC), 2024*
 
 - Developed novel binary compression technique reducing software size by 15-30% through pattern folding
 - Designed pattern recognition algorithms to identify recurring patterns across multiple executables
@@ -45,20 +44,3 @@ Y. Liang, **J. Li**, X. Chen, R. Ausavarungnirun, R. Pan, T.-W. Kuo, C. J. Xue
 - Analyzed heterogeneous cache file behaviors impacting flash storage lifetime in Android
 - Developed online classification algorithm for hot/warm/cold cache files with optimized eviction
 - Extended to CacheSifter, reducing flash writebacks by 70% while maintaining cache hit rates
-
-## Research Impact
-
-- **Total Citations:** 150+ (Google Scholar)
-- **h-index:** 5
-- **Conference Acceptance Rates:** USENIX ATC (~16%), ACM SAC (~25%), IEEE RTCSA (~30%)
-
-## Invited Talks
-
-- **"Binary Compression Techniques for Mobile Software"** - ACM SAC 2024, Avignon, France
-- **"Memory Management in Android Systems"** - City University of Hong Kong Research Symposium, 2021
-- **"Cache Management for Mobile Storage"** - HotStorage 2020 (Virtual)
-
-## Research Collaborations
-
-- **Academic:** City University of Hong Kong, National Taiwan University
-- **Industry:** Microsoft Research Asia, Intel Labs

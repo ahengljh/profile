@@ -21,7 +21,6 @@ I am Jinheng Li, an MLSys Engineer focusing on optimizing large language model s
 - GPA: 3.65 / 4.00
 - Originally enrolled in Ph.D. program, transitioned to MPhil in 2021
 - Supervisors: Prof. Chun Jason Xue / Prof. Tei-wei Kuo
-- **Award:** ACM Europe Award for research excellence
 
 ### Sichuan University
 **Bachelor of Engineering in Computer Science** (2015 - 2019)
